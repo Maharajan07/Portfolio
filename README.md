@@ -26,15 +26,4 @@ A sleek and responsive portfolio website to showcase my skills, education, and p
 - **Email**: Nodemailer with Gmail App Password
 
 ---
-
-## 📫 Contact
-
-Feel free to reach out via:
-
-- 📧 [maharajan07003@gmail.com](mailto:maharajan07003@gmail.com)
-
----
-
-## 🪪 License
-
-This project is open source and available under the [MIT License](LICENSE).
+### Made by Maharajan!
