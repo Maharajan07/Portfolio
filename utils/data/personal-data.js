@@ -15,5 +15,5 @@ export const personalData = {
   whatsapp:'https://wa.me/9025445954?text=I would like to chat with you',
   leetcode: "https://leetcode.com/u/Maharajan003/",
   devUsername: "rajan",
-  resume: 'https://drive.google.com/file/d/1zZqBKndRc3l8DbP5qpe-UW44ZkdjzbDO/view?usp=sharing'
+  resume: './Maharajan_SoftwareEngineer_Resume.pdf'
 }
