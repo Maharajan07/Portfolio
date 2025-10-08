@@ -6,7 +6,7 @@ A sleek and responsive portfolio website to showcase my skills, education, and p
 
 ## 🌐 Live Demo
 
-🔗 [Visit My Portfolio](https://your-vercel-link.vercel.app)
+🔗 [Visit My Portfolio](https://maharajan-portfolio.vercel.app/)
 
 ---
 
